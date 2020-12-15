@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.exe
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.deps.json
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.runtimeconfig.json
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.dll
+C:\Users\dev\Desktop\revisão lacos\lacos\bin\Debug\netcoreapp3.1\lacos.pdb
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.AssemblyInfo.cs
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.dll
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.pdb
+C:\Users\dev\Desktop\revisão lacos\lacos\obj\Debug\netcoreapp3.1\lacos.genruntimeconfig.cache
